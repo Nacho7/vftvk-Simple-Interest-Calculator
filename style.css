@@ -1,8 +1,8 @@
 body 
 {
-    background-color: #000000;
-    color: #ffffff;
-    font-family: Arial;
+    background-color: white;
+    color: black;
+    font-family: arial;
 }
 
 h1
@@ -22,19 +22,9 @@ h1
     margin-right: auto;
 }
 
-/* #result
-{
-    display: none;
-} */
-
 .contents
 {
     margin-left: 80px;
-}
-
-table td
-{
-    padding-bottom: 10px;
 }
 
 #compute
